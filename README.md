@@ -4,6 +4,7 @@
 - 📊 I’m passionate about Fraud detection & Investigations, Data Analytics, Big data, Data Sciencie, Machine Learning and Blockchain
 - 👨‍💻 At my job, I primarily use Python, SQL, Power BI and Excel.
 - 💬 Ask me about Fraud Data analysis, Fraud investigations, Data visualization and Automation.
+- 🦀 Currently learning Rust
 
 
 # 💻 Tech Stack:
